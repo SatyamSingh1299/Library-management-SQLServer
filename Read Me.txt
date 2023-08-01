@@ -1,0 +1,9 @@
+The Project has been done in MS SQL Server.
+
+Final Code file consists of all the codes neccesary to get the outputs in the screenshots in the report.
+
+To insert data, Final code has all insert statements to populate the database.
+
+The LibraryScript file consists of the SQL Server script file.
+
+Thank You
