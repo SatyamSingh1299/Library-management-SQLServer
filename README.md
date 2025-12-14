@@ -15,6 +15,7 @@ In this Library Database we have 7 entities and many attributes within,
 6. Member
 7. Staff
 
+# Files
 This repository contains several files that are integral to the setup and execution of a database management system for a library. Here's a brief overview of each file:
 
 SatyamSingh_Report_CS504_002.pdf: A comprehensive report detailing the project work.
